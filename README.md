@@ -1,3 +1,3 @@
 # SpringRestSecurity
 Spring Boot:
-- Creación de Usuarios y Autentificación.
+- Creación y autentificación de usuarios.
